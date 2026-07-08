@@ -1,3 +1,13 @@
+# Git Commit Snapshot
+* https://github.com/gtechsltn/GitCommitSnapshot/
+* https://github.com/gtechsltn/GitCommitSnapshot/tree/master
+```
+cd C:\2027\gtechsltn
+git clone https://github.com/gtechsltn/GitCommitSnapshot.git
+cd GitCommitSnapshot
+python C:\2027\gtechsltn\GitCommitSnapshot\GitCommitSnapshot.py 3bd4a61aef94f18ff9ad51af4d6b03abd97cef1d --repo C:\2026\ts_src\ThirdSight.Web --output C:\Snapshots --verbose
+```
+
 # Project Architecture
 
 ## Overview
